@@ -48,12 +48,12 @@ available to us.
 
 1. Select "File > Clone repository" on the menubar
 ![Clone menubar](assets/clone.png "Clone form the menubar")
-1. Select by URL "hershaw/stats-279"
+1. Select by URL "DareData/data-science-101"
 1. Select and press clone
 
 ### Running a Learning Unit
 
-In the `stats-279` repository that you just cloned there is a sample
+In the `data-science-101` repository that you just cloned there is a sample
 learning unit.
 It's used to give instructors guidelines to produce the learning units.
 We are also using it to ensure that you are able to run and submit a learning 
