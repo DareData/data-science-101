@@ -14,6 +14,11 @@ workflow you'll use during the course.
 
 This is one-time setup. Get it right the first time and you won't have to worry about it again!
 
+## Presentation Videos
+
+[Here you can find videos of the presentations](https://www.youtube.com/playlist?list=PLo3LSRSGRZNH13ooXSVBOnnA4uZtLbOU7)
+at the [Batch3 LDSSA](http://lisbondatascience.org) course which is the original source of the material.
+
 ### Setup _Git_/_GitHub_
 
 1. Install [_GitHub Desktop_](https://desktop.github.com/).
