@@ -22,7 +22,7 @@ already have one.
 
 ### Install _Anaconda_
 
-The work you will be doing during the academy makes use of packages to provide
+The work you will be doing during the course makes use of packages to provide
 extra functionality.
 Installing and managing different versions (that may have subtle changes)
 in different operating systems and ensuring everyone gets the same results
@@ -134,5 +134,5 @@ check intermediate progress, feel free to.
 
 If you are able to go through the entire process and get a passing grade on 
 the sample LU you'll have a good understanding of the same flow that you'll use
-for all LUs throughout the academy.
+for all LUs throughout the course.
 
