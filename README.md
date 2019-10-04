@@ -40,9 +40,9 @@ on how to address these issues.
 
 ### Setup your Workspace Repository
 
-It's good practice to store your work with version control. 
-In this course that is a requirement as it is how you will make your work
-available to us.
+It's good practice to store your work with version control but for this course
+it will not be required.
+
 
 ###### Using _GitHub Desktop_
 
