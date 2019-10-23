@@ -1,7 +1,7 @@
 # Small Learning Unit 05 - Covariance and Correlation
 
 
-#### [Presentation](https://docs.google.com/presentation/d/15Nm53_-8YOPYol_oYyKHMgRSwXRmAx-JtpXr25Qed00/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1YxdL88ZvQPNDR7NRAybfCmcCilQRb6BtHk_77N9xi98/edit?usp=sharing)
 
 # New concepts in this unit
 - Covariance 

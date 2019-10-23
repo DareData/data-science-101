@@ -1,7 +1,7 @@
 # Small Learning Unit 18 - Hyperparameter Tuning
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1qUaAGyHlkmMhcgd8U5szxJjeO9eLVlwWGUNQia2IMRE/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1qCNPhILVyIPuXChdWBab0kqL6WDit9_tDbD31YVmSJs/edit?usp=sharing)
 
 ### New concepts in this unit
 

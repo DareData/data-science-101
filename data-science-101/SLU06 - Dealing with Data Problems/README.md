@@ -1,6 +1,6 @@
 # Small Learning Unit 06 - Dealing with Data Problems
 
-#### [Presentation](https://docs.google.com/presentation/d/1v_7ow-Mnzq1gP2YmtnJN432OC_ytgTNlKy1fACeptoE/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1qUF32dd2h1B2shsrOmss_F_ejyeFqZ1_Ioa8BlxhYjQ/edit?usp=sharing)
 
 # New concepts in this unit
 

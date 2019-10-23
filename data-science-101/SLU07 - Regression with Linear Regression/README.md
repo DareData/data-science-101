@@ -1,7 +1,7 @@
 k# Small Learning Unit 7 - Regression with Linear Regression
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1YIGDSKCA5VkauK2974_w43Nj5xLUCMi50Rd-eQMcLWo/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1zwWz9GLZJqLpTfWi_eEjeGuxQsYXM0_kehIskZo7PAo/edit?usp=sharing)
 
 # New concepts in this unit
 - What is regression?

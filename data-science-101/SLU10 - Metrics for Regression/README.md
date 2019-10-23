@@ -1,7 +1,7 @@
 # Small Learning Unit 10 - Metrics for regression
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1Tia2LOHZ7MKCxqtyVnNOdGNjG8jSHZQ2x53peEiYrAo/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/196TLKI3wuilHqFgjosaiCZMa_lM6OsfCPVNXcN4QfZw/edit?usp=sharing)
 
 # New concepts in this unit
 - Mean Absolute Error (MAE)

@@ -1,7 +1,7 @@
 # Small Learning Unit 12 - Support Vector Machines
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1YsbmKdzEZ9B3SgYasvGro9d5JtTTU6_uBClBghVAb7Q/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1BKbntjIZ_H1q4QVxk5AMX9zx8ok_ZQWANcfBhVhi94M/edit?usp=sharing)
 
 # New concepts in this unit
 

@@ -3,7 +3,7 @@
 Learn how carefully select your features and understand your model performance as data is added to the training process
 in order to keep your complexity under control and win the tradeoff between bias and variance.
 
-#### [Presentation](https://docs.google.com/presentation/d/1gVermXPIkyLKsL_IItAoYq0G2hxwi5Nf0Bw2APZOc6g/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1qCNPhILVyIPuXChdWBab0kqL6WDit9_tDbD31YVmSJs/edit?usp=sharing)
 
 
 # New concepts in this unit

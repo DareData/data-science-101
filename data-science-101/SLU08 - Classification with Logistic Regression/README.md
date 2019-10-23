@@ -1,7 +1,7 @@
 # Small Learning Unit 8 - Classification with Logistic Regression
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1Ir5RYf-TnyP56tzkueXz2cFBh2EWMKPq-Z4A7Oj00YM/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1w29ByYhPwgDiQ-ThUe9hGQFsklLQv1KvHklDdO2SEJk/edit?usp=sharing)
 
 # New concepts in this unit
 

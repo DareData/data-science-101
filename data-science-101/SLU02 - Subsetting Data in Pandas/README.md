@@ -1,7 +1,7 @@
 # Small Learning Unit 2 - Subsetting data in Pandas
 
 
-#### [Presentation](https://docs.google.com/presentation/d/1_qmZmWZ9uz0XwY-nJdl63c392mXXg9ei4xRZhJMOWrg/edit?usp=sharing)
+#### [Presentation](https://docs.google.com/presentation/d/1SduviQg5Oo_U4mugrcx6A4fPxTxgE4TqR6UW645TO-s/edit?usp=sharing)
 
 
 # New concepts in this unit
