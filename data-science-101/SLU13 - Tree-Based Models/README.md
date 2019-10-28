@@ -1,6 +1,6 @@
 # Small Learning Unit 13 - Tree-based Models
 
-#### [Presentation](https://docs.google.com/presentation/d/18veOZ0VuEXF18I0nZaO3Iasp0IYNhg12ziE_jIZnl2Y/edit#slide=id.p1)
+#### [Presentation](https://docs.google.com/presentation/d/1pOsJ3POknrFLLmsJw1wMR56o_bvGQ_Scm0YjU3I9GVc/edit?usp=sharing)
 
 ## New concepts in this notebook
 - Rule-based systems

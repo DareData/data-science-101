@@ -1,6 +1,6 @@
 # Small Learning Unit 17 - Ethics and Fairness
 
-#### [Presentation](https://docs.google.com/presentation/d/1hBamx3QaPeeK4GgZ1SIZz67-gVp8P2ibHBCj5GctNh4/edit#slide=id.p6)
+#### [Presentation](https://docs.google.com/presentation/d/1pF08vPxXvktheTu2dFa5x0iwp13YuWtv341OiCDfPbw/edit?usp=sharing)
 
 ## New concepts in this notebook
 - Machine learning social loop
