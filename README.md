@@ -2,6 +2,8 @@
 
 Welcome to The Data Science 101 repository.
 
+The welcoming remarks presentation [can be found here](https://drive.google.com/open?id=1KWTDh6a1_68KMNVMDG70wZz0amPs_ijgkysFYsqVfqM)
+
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the course.
 
