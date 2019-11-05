@@ -2,7 +2,9 @@
 
 Welcome to The Data Science 101 repository.
 
-The welcoming remarks presentation [can be found here](https://drive.google.com/open?id=1KWTDh6a1_68KMNVMDG70wZz0amPs_ijgkysFYsqVfqM)
+The welcoming remarks presentation [can be found here](https://drive.google.com/open?id=1KWTDh6a1_68KMNVMDG70wZz0amPs_ijgkysFYsqVfqM).
+
+[Here we have recorded the presentations](https://www.youtube.com/watch?v=0Vg-NaHsSXM&list=PLo3LSRSGRZNH13ooXSVBOnnA4uZtLbOU7) for most of the SLUs that were presented during the bootcamp weekend. Enjoy!
 
 Here is you'll find all information needed to setup your environment and the
 workflow you'll use during the course.
